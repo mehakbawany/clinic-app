@@ -14,5 +14,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     </BrowserRouter>
   </React.StrictMode>
 );
-cd C:\Users\Student\Downloads\clinic-appointment-system\clinic
-dir
